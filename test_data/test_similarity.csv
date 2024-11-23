@@ -1,0 +1,31 @@
+id	sentence1	sentence2	similarity
+71	There is no child lying in the snow and making snow angels	Two people in snowsuits are lying in the snow and making snow angels	3.3
+72	Two people in snowsuits are lying in the snow and making snow angels	Two angels are making snow on the lying children	2.5
+73	Two children are lying in the snow and are making snow angels	Two people in snowsuits are lying in the snow and making snow angels	4.2
+74	A little girl is looking at a woman in costume	A young girl is looking at a woman in costume	4.7
+75	A little girl is looking at a woman in costume	The little girl is looking at a man in costume	3.8
+76	A little girl is looking at a woman in costume	A little girl in costume looks like a woman	2.9
+77	People wearing costumes are gathering in a forest and are looking in the same direction	Masked people are looking in the same direction in a forest	4.4
+78	People wearing costumes are gathering in a forest and are looking in the same direction	People wearing costumes are scattering in a forest and are looking in different directions	3.2
+79	People are looking at some costumes gathered in the vicinity of the forest	People wearing costumes are gathering in a forest and are looking in the same direction	3.635
+80	Masked people are looking in the same direction in a forest	A little girl is looking at a woman in costume	1.3
+81	A little girl is looking at a woman in costume	People wearing costumes are scattering in a forest and are looking in different directions	2.4
+82	A little girl is looking at a woman in costume	People are looking at some costumes gathered in the vicinity of the forest	2.6
+83	A young girl is looking at a woman in costume	People wearing costumes are gathering in a forest and are looking in the same direction	2.2
+84	People wearing costumes are gathering in a forest and are looking in the same direction	The little girl is looking at a man in costume	3.0
+85	People wearing costumes are gathering in a forest and are looking in the same direction	A little girl in costume looks like a woman	2.0
+86	A little girl is looking at a woman in costume	People wearing costumes are gathering in a forest and are looking in the same direction	2.6
+87	A lone biker is jumping in the air	A biker is jumping in the air, alone	5.0
+88	There is no biker jumping in the air	A lone biker is jumping in the air	4.2
+89	A man is jumping into an empty swimming pool	A man is jumping into an empty pool	4.8
+90	A man is jumping into an empty pool	A man is jumping into a full pool	3.0
+91	A man is jumping into an empty pool	The man's jumper is in the empty pool	3.1
+92	A lone biker is jumping in the air	A man is jumping into an empty swimming pool	1.6
+93	A lone biker is jumping in the air	A man is jumping into a full pool	1.7
+94	The man's jumper is in the empty pool	A lone biker is jumping in the air	1.4
+95	A man is jumping into an empty pool	A biker is jumping in the air, alone	1.6
+96	A man is jumping into an empty pool	There is no biker jumping in the air	1.2
+97	A lone biker is jumping in the air	A man is jumping into an empty pool	1.5
+98	Four kids are doing backbends in the park	Four children are doing backbends in the park	4.8
+99	Four children are doing backbends in the gym	Four children are doing backbends in the park	3.8
+100	Four girls are doing backbends and playing in the garden	Four girls are doing backbends and playing outdoors	4.1
